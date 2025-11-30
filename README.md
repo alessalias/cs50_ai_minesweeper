@@ -1,11 +1,9 @@
 # 🧠 Minesweeper AI
 
-![Status](https://img.shields.io/badge/AI%20Project-Minesweeper-blue)
-![Language](https://img.shields.io/badge/Python-3.10%2B-yellow)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![CS50 AI](https://img.shields.io/badge/CS50-AI_Project-orange)
 ![Logic](https://img.shields.io/badge/Knowledge--Based%20AI-✓-brightgreen)
-![CS50AI](https://img.shields.io/badge/CS50-AI%20Track-red)
-![Terminal](https://img.shields.io/badge/ASCII-Output-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Complete-success)
 
 An AI agent that plays the classic **Minesweeper** game using propositional logic, knowledge-based inference, and constraint satisfaction techniques.
 

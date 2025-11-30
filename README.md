@@ -1,5 +1,12 @@
 # 🧠 Minesweeper AI
 
+![Status](https://img.shields.io/badge/AI%20Project-Minesweeper-blue)
+![Language](https://img.shields.io/badge/Python-3.10%2B-yellow)
+![Logic](https://img.shields.io/badge/Knowledge--Based%20AI-✓-brightgreen)
+![CS50AI](https://img.shields.io/badge/CS50-AI%20Track-red)
+![Terminal](https://img.shields.io/badge/ASCII-Output-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 An AI agent that plays the classic **Minesweeper** game using propositional logic, knowledge-based inference, and constraint satisfaction techniques.
 
 This project is part of **CS50's Introduction to Artificial Intelligence with Python** and showcases reasoning under uncertainty, structured knowledge representation, and algorithmic problem-solving.

@@ -12,7 +12,7 @@ This project is part of **CS50's Introduction to Artificial Intelligence with Py
 minesweeper/
 ├── assets/                 
 ├── minesweeper.py          # Game logic + AI implementation
-├── runner.py               # CLI runner to play or observe AI
+├── runner.py               # Runner to play or observe AI
 ├── requirements.txt        # Dependencies
 └── test_minesweeper.py     # Debugging tool
 ```

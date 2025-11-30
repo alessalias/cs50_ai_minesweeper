@@ -31,6 +31,11 @@ The project contains:
 
 The AI deduces information logically rather than guessing randomly.
 
+> **Note on Comments:**  
+> This project contains an unusually high number of comments, some of which may appear overly verbose or repetitive.  
+> In several places, the comments restate the assignment specifications or describe logic that may seem self-evident.  
+> This is intentional: the comments were written to keep all reasoning visible directly within the script and to help me re-trace the thought process behind certain design decisions when revisiting the code in the future.
+
 ---
 
 ## 🧩 How the AI Works

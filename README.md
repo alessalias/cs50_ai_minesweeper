@@ -115,9 +115,9 @@ You can modify the board size or number of mines inside `runner.py`.
 
 ---
 
-## 🧠 Skills Demonstrated
+## 📘 Concepts Covered
 
-This project demonstrates:
+This project covers:
 
 - **Python OOP**
 - **Logical inference & propositional logic**
@@ -137,6 +137,6 @@ This project demonstrates:
 
 ---
 
-## 🏷 License
+## 📄 License
 
 This project is open-source and available under the MIT License.
